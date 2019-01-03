@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79f8acdf-19e6-4612-8954-96351c87f81e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/policy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
-    </list>
+    <list default="true" id="79f8acdf-19e6-4612-8954-96351c87f81e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +26,7 @@
       <file leaf-file-name="terms.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/terms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="115">
               <caret line="100" column="39" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -101,16 +98,6 @@
               <item name="ay kedma" type="b2602c69:ProjectViewProjectNode" />
               <item name="ay kedma" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ay kedma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ay kedma" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ay kedma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ay kedma" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -152,16 +139,15 @@
       <workItem from="1546427833427" duration="16014000" />
       <workItem from="1546499570476" duration="4222000" />
       <workItem from="1546505618868" duration="1140000" />
-      <workItem from="1546507931983" duration="6393000" />
+      <workItem from="1546507931983" duration="6961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37831000" />
+    <option name="totallyTimeSpent" value="38399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1382" height="724" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -327,7 +313,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/terms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="115">
           <caret line="100" column="39" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
